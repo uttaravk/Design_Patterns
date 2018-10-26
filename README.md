@@ -6,4 +6,4 @@
 In this individual project, I have completed a partial implementation of the Design Patterns in a text-based Starbucks Mobile Apps Simulator. Reference 
 Repo.: https://github.com/paulnguyen/starbucks	
 
-Source code cannot be published due to restrictions imposed by the course structure (SJSU : CMPE 202)
+Source code cannot be published due to restrictions imposed by the university (SJSU : CMPE 202)
